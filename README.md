@@ -5,4 +5,4 @@ A gmail username is for example myusername@gmail.com, in this case myusername is
 
 Be sure to disable two factor authentication in your gmail account, and enable access through less secure apps.
 
-Also you can send commands to that pc like a terminal, sending as an email to yourself and in the subject the command you want to send.
+Also you can send commands to the pc where this is installed, like a terminal, sending an email to yourself and in the subject the command you want to send.
